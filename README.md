@@ -1,4 +1,4 @@
-# OutlierDetection
+# Out-of-distribution detection
 Out-of-distribution (OOD) detection is a task in machine learning that involves identifying samples or data points that are essentially different from the training data distribution. In other words, OOD detection is the process of detecting inputs that are outside the range of the data that a model was trained on.
 OOD detection is important because many machine learn- ing models are designed to work only within the range of data that they were trained on, and may give unreliable or incorrect predictions when presented with inputs that are significantly different from the training data. This is par- ticularly important in safety-critical applications where the consequences of incorrect predictions can be severe.
 Out of Distribution detection using machine learning has become significantly popular in recent years, with various approaches available. This is currently being solved using SVMs by identifying the normal region.
